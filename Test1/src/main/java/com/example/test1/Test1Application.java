@@ -9,8 +9,7 @@ public class Test1Application {
 
         System.out.println("测试成功！");
 
-        System.out.println("测试成功！");
-        System.out.println("测试成功！");
+        System.out.println("测试成功111！");
     }
 
 }
